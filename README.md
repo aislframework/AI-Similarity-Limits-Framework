@@ -37,7 +37,7 @@ Background doesn't matter. We need:
 ### Translations
 - [English](README.md)
 - [Português Brasileiro](translations/README.pt-BR.md)
-- [Mandarim Simplificado](translations/README.zh-CN.md)
+- [翻译成简体中文](translations/README.zh-CN.md)
 
 ### Next Steps
 - Version 0.1 → Community discussion
