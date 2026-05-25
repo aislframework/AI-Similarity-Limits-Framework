@@ -37,7 +37,7 @@ Não importa sua formação. Precisamos de:
 ### Traduções
 - [English](README.md)
 - [Português Brasileiro](translations/README.pt-BR.md)
-- [Mandarim Simplificado](translations/README.zh-CN.md)
+- [翻译成简体中文](translations/README.zh-CN.md)
 
 ### Próximos Passos
 - Versão 0.1 → Discussão comunitária
