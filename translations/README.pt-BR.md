@@ -52,4 +52,6 @@ Não representa nenhuma empresa ou governo.
 
 ---
 
-**Licença**: [CC BY-SA 4.0](LICENSE) (documentos) + MIT (código)
+**License**: 
+- **Code**: [MIT License](LICENSE)
+- **Documentation**: [CC BY-SA 4.0](LICENSE-DOCS.md)
