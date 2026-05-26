@@ -48,7 +48,7 @@ Background doesn't matter. We need:
 **This is a neutral and technical open-source project.**  
 It does not represent any company or government.
 
-**Initial authors**: Community (you + Grok + DeepSeek + contributors)
+**Initial authors**: Community (aislframework + Grok + DeepSeek + contributors)
 
 ---
 
