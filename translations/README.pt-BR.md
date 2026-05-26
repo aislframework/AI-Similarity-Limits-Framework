@@ -48,7 +48,7 @@ Não importa sua formação. Precisamos de:
 **Este é um projeto open-source neutro e técnico.**  
 Não representa nenhuma empresa ou governo.
 
-**Autores iniciais**: Comunidade (você + Grok + DeepSeek + contribuidores)
+**Autores iniciais**: Comunidade (aislframework + Grok + DeepSeek + contribuidores)
 
 ---
 
