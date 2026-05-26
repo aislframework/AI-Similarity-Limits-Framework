@@ -1,18 +1,20 @@
 # Interoperability and National Adaptation
 
-This framework is designed to be adopted differently by each jurisdiction.
+## Philosophy
 
-## Recommended Approach
+The technical core should be as universal as possible, while legal implementation remains flexible.
 
-- **Core Technical Metrics**: Should remain as consistent as possible globally (for interoperability).
-- **Thresholds**: Each country can adjust the percentages according to their legal culture.
-  - Example: European countries may lower the criminal threshold.
-  - Example: United States may widen exceptions due to First Amendment.
+## Recommended Structure
 
-## Suggested National Implementation Layers
+1. **Global Technical Layer** (Metrics, measurement methods, provenance)
+2. **National Legal Layer** (Threshold values, penalties, exceptions)
+3. **Platform Enforcement Layer** (Implementation by AI companies and social media)
 
-1. Technical Layer (metrics)
-2. Legal Layer (thresholds + penalties)
-3. Platform Layer (enforcement by social media, generators, etc.)
+## Examples of Adaptation
 
-The goal is **maximum global technical compatibility** with **national legal flexibility**.
+- **Europe**: Stronger emphasis on consent and privacy (GDPR alignment)
+- **United States**: Broader exceptions for First Amendment protections
+- **Brazil**: Focus on electoral integrity and non-consensual intimate content
+- **China**: Integration with national content governance systems
+
+The goal is **maximum technical compatibility** between countries.
