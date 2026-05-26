@@ -27,4 +27,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 **Languages**: English | [Português Brasileiro](translations/README.pt-BR.md) | [简体中文](translations/README.zh-CN.md)
 
-**License**: CC BY-SA 4.0 (docs) + MIT (code)
+**License**: 
+- **Code**: [MIT License](LICENSE)
+- **Documentation**: [CC BY-SA 4.0](LICENSE-DOCS.md)
