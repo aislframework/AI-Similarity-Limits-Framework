@@ -3,53 +3,28 @@
 **Objective similarity thresholds for generative AI and deepfake regulation**
 
 Subjectivity in courts + AI = chaos.  
-This framework replaces vague criteria such as "recognizability" or "appears authentic" with **measurable objective thresholds** of similarity.
+This framework replaces vague legal concepts ("it looks real", "recognizable person") with **clear, measurable, and objective similarity thresholds**.
 
-### Original Framework (v0.1)
+### Core Framework (v0.1)
 
-- **Similarity < 70%**: Free — considered "generic person"
-- **Similarity 70-85%**: Allowed with mandatory disclaimer
-- **Similarity 85-95%**: Requires explicit consent from the similar person
-- **Similarity > 95%**: Considered serious violation (potential crime in harmful contexts), except with explicit authorization
+- **< 70%** → Free use (Generic Person)
+- **70-85%** → Allowed with mandatory disclaimer
+- **85-95%** → Requires explicit consent
+- **> 95%** → Serious violation if used without authorization
 
-### Why does this project exist?
+### Project Goals
 
-Currently, judges decide deepfake cases based on emotional testimonies and subjective perceptions. This repository aims to build an open, peer-reviewed, and globally adaptable technical standard to reduce this subjectivity.
+- Reduce judicial subjectivity in deepfake cases
+- Provide technical guidance for platforms and regulators
+- Balance innovation, freedom of expression, and rights protection
+- Create an open, community-driven standard
 
-### Main Technical Metrics
-- Face Embeddings (ArcFace / CosFace)
-- Voice Embeddings
-- Perceptual Metrics (LPIPS, SSIM)
-- FID and others
+[View full documentation](docs/problem-statement.md)
 
-The framework is **iterative** and acknowledges its limitations (including adversarial attacks).
+### How to Contribute
 
-### How to Participate
-Background doesn't matter. We need:
-- AI & Computer Vision Engineers
-- Lawyers and regulatory experts
-- Policymakers
-- Ethics researchers
-- Concerned citizens
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-**Contributions are welcome via Issues and Pull Requests.**
+**Languages**: English | [Português Brasileiro](translations/README.pt-BR.md) | [简体中文](translations/README.zh-CN.md)
 
-### Translations
-- [English](README.md)
-- [Português Brasileiro](translations/README.pt-BR.md)
-- [翻译成简体中文](translations/README.zh-CN.md)
-
-### Next Steps
-- Version 0.1 → Community discussion
-- Version 1.0 → Submission to ITU/ISO, OECD.AI, UNESCO, Council of Europe, C2PA and other organizations
-
----
-
-**This is a neutral and technical open-source project.**  
-It does not represent any company or government.
-
-**Initial authors**: Community (aislframework + Grok + DeepSeek + contributors)
-
----
-
-**License**: [CC BY-SA 4.0](LICENSE) (documents) + MIT (code)
+**License**: CC BY-SA 4.0 (docs) + MIT (code)
